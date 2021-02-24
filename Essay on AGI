@@ -1,2 +1,7 @@
+1.
 Until we fully understand how brains are constructed, AI should be left doing what brains are not good at doing.
 Once we have a precise mathematical model of brain, we can start building AI that's based on it. This is how we achieve alignment.
+
+2.
+Using reward function is a overly simplified approach. There are many situations where the reward isn't easily defined.
+A better version of AI should be one that's motivated by curiosity, not rewards.
