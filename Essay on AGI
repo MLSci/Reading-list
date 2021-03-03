@@ -5,3 +5,6 @@ Once we have a precise mathematical model of brain, we can start building AI tha
 2.
 Using reward function is a overly simplified approach. There are many situations where the reward isn't easily defined.
 A better version of AI should be one that's motivated by curiosity, not rewards.
+
+3.
+Next we're gonna face the current models (built around economic value) losing effectiveness, as we emphasize more on human value. Whether the model is driven by the loss function (in supervised learning), or the reward function (in RL), it's currently all about maximizing the economics/profits.
